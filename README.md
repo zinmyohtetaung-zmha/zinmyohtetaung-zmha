@@ -1,11 +1,7 @@
 <div align="center">
   <!-- Animated Typing Title -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=C%23+.NET+Developer;Enterprise+Software+Engineer;SQL+Server+Database+Architect;Building+Scalable+Desktop+%26+Backend" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F760&background=FFAE2800&center=true&vCenter=true&width=435&lines=Hello!+I+Am+;ZIN+MYO+HTET+AUNG;C%23+.Net+Developer;Galaxy+Software+Co.%2C+Ltd" alt="Typing SVG" /></a>
+  <br>
   <!-- Social Badges -->
   <a href="https://pjzinmyo.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
